@@ -86,7 +86,8 @@ npm install
 
 Create a .env file in the root:
 ```
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=http://localhost:8000/api
+or hosted_url = https://agent-management-backend.onrender.com/api
 ```
 
 ### 4️⃣ Run the app
