@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = "http://localhost:8000/api";
+const API_BASE_URL = "https://agent-management-backend.onrender.com/api";
 
 // Utility function for API calls
 export const apiCall = async (endpoint, options = {}) => {
